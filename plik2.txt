@@ -1,0 +1,2 @@
+Pisze do pliku z programu
+zawsze jak konczysz to pamiętaj aby zakończyć strumień close
