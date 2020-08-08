@@ -6,5 +6,7 @@ public class git {
         System.out.println("chce go zapisać, zakomitować, zapuschowac a na iMaku zapulować i odczytać");
         System.out.println(" działa:D widzę na iMacu");
         System.out.println(" teraz chce wysłać ");
+        System.out.println(" Super, odczytałem na macbooku");
+        System.out.println(" dopisuje i wysyłam z macbooka");
     }
 }

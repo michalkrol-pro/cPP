@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="765582e5-af2b-48df-a0b7-76ca2ae4de52" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/odcinek10/git.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/odcinek10/git.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,10 +153,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit z iMac" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="781" y="397" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596890795823">
-      <screen x="40" y="23" width="1880" height="1057" />
+    <state x="585" y="333" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596891982251">
+      <screen x="29" y="23" width="1411" height="877" />
     </state>
-    <state x="585" y="333" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/29.23.1411.877@29.23.1411.877" timestamp="1596890326508" />
+    <state x="585" y="333" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/29.23.1411.877@29.23.1411.877" timestamp="1596891982251" />
     <state x="781" y="397" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/40.23.1880.1057@40.23.1880.1057" timestamp="1596890795823" />
     <state x="970" y="108" key="CommitChangelistDialog2" timestamp="1596891148435">
       <screen x="40" y="23" width="1880" height="1057" />
