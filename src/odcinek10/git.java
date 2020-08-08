@@ -5,5 +5,6 @@ public class git {
         System.out.println("Pisze to na macbooku, a cały projekt sklonowałem z gitHuba");
         System.out.println("chce go zapisać, zakomitować, zapuschowac a na iMaku zapulować i odczytać");
         System.out.println(" działa:D widzę na iMacu");
+        System.out.println(" teraz chce wysłać ");
     }
 }

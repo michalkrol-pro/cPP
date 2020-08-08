@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="michalkrol-pro &lt;62615562+michalkrol-pro@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c5gmDcgeO4wYTx9fKCet6bzZ5n" />
@@ -132,6 +137,10 @@
     </state>
     <state x="585" y="333" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/29.23.1411.877@29.23.1411.877" timestamp="1596890326508" />
     <state x="781" y="397" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/40.23.1880.1057@40.23.1880.1057" timestamp="1596890795823" />
+    <state x="970" y="108" key="CommitChangelistDialog2" timestamp="1596891095341">
+      <screen x="40" y="23" width="1880" height="1057" />
+    </state>
+    <state x="970" y="108" key="CommitChangelistDialog2/40.23.1880.1057@40.23.1880.1057" timestamp="1596891095341" />
     <state width="1149" height="259" key="GridCell.Tab.0.bottom" timestamp="1596223735939">
       <screen x="40" y="23" width="1880" height="1057" />
     </state>
@@ -156,6 +165,10 @@
     <state width="1235" height="259" key="GridCell.Tab.0.right/0.23.1920.1002/1920.23.1920.1057@0.23.1920.1002" timestamp="1589879899497" />
     <state width="1149" height="259" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1590812948705" />
     <state width="1149" height="259" key="GridCell.Tab.0.right/40.23.1880.1057@40.23.1880.1057" timestamp="1596223735939" />
+    <state x="924" y="245" key="Vcs.Push.Dialog.v2" timestamp="1596891063312">
+      <screen x="40" y="23" width="1880" height="1057" />
+    </state>
+    <state x="924" y="245" key="Vcs.Push.Dialog.v2/40.23.1880.1057@40.23.1880.1057" timestamp="1596891063312" />
     <state x="751" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1590484201466">
       <screen x="0" y="23" width="1920" height="1002" />
     </state>
